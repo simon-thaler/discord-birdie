@@ -1,0 +1,633 @@
+1673332571056	geckodriver	INFO	Listening on 127.0.0.1:34985
+1673332571771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBgIaGE"
+[13458, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13458): Gdk-CRITICAL **: 00:36:11.875: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[13458, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13458): Gdk-CRITICAL **: 00:36:11.876: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673332572497	Marionette	INFO	Marionette enabled
+1673332572502	Marionette	INFO	Listening on port 44447
+Read port: 44447
+WebDriver BiDi listening on ws://127.0.0.1:48855
+1673332572682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBgIaGE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48855/devtools/browser/7b90a615-8bc3-417a-846a-2c6e84bbf819
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+1673332599374	Marionette	INFO	Stopped listening on port 44447
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673332599652	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: uncaught exception: Object
+[2023-01-10T06:36:39Z ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1673336831315	geckodriver	INFO	Listening on 127.0.0.1:33901
+1673336832834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44879" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletwVhEM"
+[14644, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14644): Gdk-CRITICAL **: 01:47:14.777: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[14644, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14644): Gdk-CRITICAL **: 01:47:14.867: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673450926913	geckodriver	INFO	Listening on 127.0.0.1:44083
+1673450927621	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35861" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefQNBgP"
+[1888, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:1888): Gdk-CRITICAL **: 09:28:47.699: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[1888, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:1888): Gdk-CRITICAL **: 09:28:47.700: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673450928421	Marionette	INFO	Marionette enabled
+1673450928426	Marionette	INFO	Listening on port 36387
+Read port: 36387
+WebDriver BiDi listening on ws://127.0.0.1:35861
+1673450928601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefQNBgP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35861/devtools/browser/5c9d6077-2949-420d-881f-ab483664b881
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+1673450946194	Marionette	INFO	Stopped listening on port 36387
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673450964683	geckodriver	INFO	Listening on 127.0.0.1:45201
+1673450965299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7B62AJ"
+[2278, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:2278): Gdk-CRITICAL **: 09:29:25.367: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[2278, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:2278): Gdk-CRITICAL **: 09:29:25.368: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673450965819	Marionette	INFO	Marionette enabled
+1673450965824	Marionette	INFO	Listening on port 34139
+Read port: 34139
+WebDriver BiDi listening on ws://127.0.0.1:44671
+1673450965960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7B62AJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44671/devtools/browser/34230f87-f86c-44ca-9b8e-e4571a2641af
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+1673451333201	geckodriver	INFO	Listening on 127.0.0.1:44801
+1673451333928	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQpR8Oj"
+[2826, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:2826): Gdk-CRITICAL **: 09:35:33.999: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[2826, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:2826): Gdk-CRITICAL **: 09:35:34.000: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673451334537	Marionette	INFO	Marionette enabled
+1673451334542	Marionette	INFO	Listening on port 42749
+Read port: 42749
+WebDriver BiDi listening on ws://127.0.0.1:38457
+1673451334747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQpR8Oj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38457/devtools/browser/263f9e7d-2798-44d3-9af1-0ef132896cc2
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673454763982	geckodriver	INFO	Listening on 127.0.0.1:37945
+1673454764035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55523" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXC6OBn"
+[3964, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:3964): Gdk-CRITICAL **: 10:32:44.093: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[3964, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:3964): Gdk-CRITICAL **: 10:32:44.094: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673454764471	Marionette	INFO	Marionette enabled
+1673454764475	Marionette	INFO	Listening on port 43965
+Read port: 43965
+WebDriver BiDi listening on ws://127.0.0.1:55523
+1673454764588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXC6OBn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55523/devtools/browser/d8f1f14f-412d-4fec-9ce3-aed94849071d
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discord.com."
+1673454836141	geckodriver	INFO	Listening on 127.0.0.1:44409
+1673454836195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileS0yXju"
+[4419, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:4419): Gdk-CRITICAL **: 10:33:56.248: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[4419, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:4419): Gdk-CRITICAL **: 10:33:56.249: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673454836656	Marionette	INFO	Marionette enabled
+1673454836659	Marionette	INFO	Listening on port 35957
+Read port: 35957
+WebDriver BiDi listening on ws://127.0.0.1:50337
+1673454836771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileS0yXju/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50337/devtools/browser/8a6586e7-9c51-436c-a7f4-ccf13abced95
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discord.com."
+1673454893803	Marionette	INFO	Stopped listening on port 35957
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673455243991	geckodriver	INFO	Listening on 127.0.0.1:39789
+1673455244620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40335" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFYfqe9"
+[5698, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:5698): Gdk-CRITICAL **: 10:40:44.682: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[5698, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:5698): Gdk-CRITICAL **: 10:40:44.682: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673455245334	Marionette	INFO	Marionette enabled
+1673455245342	Marionette	INFO	Listening on port 37789
+Read port: 37789
+WebDriver BiDi listening on ws://127.0.0.1:40335
+1673455245495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFYfqe9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40335/devtools/browser/d6f13dd8-c081-41b7-a0d4-a815371db231
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discord.com."
+1673455332383	geckodriver	INFO	Listening on 127.0.0.1:49157
+1673455333018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileS6tfhF"
+[6209, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:6209): Gdk-CRITICAL **: 10:42:13.171: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[6209, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:6209): Gdk-CRITICAL **: 10:42:13.172: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673455333907	Marionette	INFO	Marionette enabled
+1673455333913	Marionette	INFO	Listening on port 34803
+Read port: 34803
+WebDriver BiDi listening on ws://127.0.0.1:43515
+1673455334118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileS6tfhF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43515/devtools/browser/4fe37fa2-4f73-4482-a635-a0b90f28b8fd
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+Exiting due to channel error.
+Exiting due to channel error.
+1673455793732	geckodriver	INFO	Listening on 127.0.0.1:44317
+1673455794391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileT7medb"
+[1948, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:1948): Gdk-CRITICAL **: 10:49:54.503: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[1948, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:1948): Gdk-CRITICAL **: 10:49:54.504: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673455795226	Marionette	INFO	Marionette enabled
+1673455795231	Marionette	INFO	Listening on port 46863
+Read port: 46863
+WebDriver BiDi listening on ws://127.0.0.1:51077
+1673455795418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileT7medb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51077/devtools/browser/666a6567-bdd1-4d6c-a6ad-7b3d015c1bb1
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+1673455979618	Marionette	INFO	Stopped listening on port 46863
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673455986605	geckodriver	INFO	Listening on 127.0.0.1:47325
+1673455987270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48261" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebn76Zt"
+[2498, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:2498): Gdk-CRITICAL **: 10:53:07.335: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[2498, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:2498): Gdk-CRITICAL **: 10:53:07.335: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673455987747	Marionette	INFO	Marionette enabled
+1673455987751	Marionette	INFO	Listening on port 34819
+Read port: 34819
+WebDriver BiDi listening on ws://127.0.0.1:48261
+1673455987872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebn76Zt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48261/devtools/browser/18e001b5-f9fb-4025-a801-65578b084454
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discord.com."
+1673456200717	geckodriver	INFO	Listening on 127.0.0.1:52383
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673456201401	Marionette	INFO	Stopped listening on port 34819
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673456201526	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36433" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9egu7N"
+[3019, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:3019): Gdk-CRITICAL **: 10:56:41.690: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[3019, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:3019): Gdk-CRITICAL **: 10:56:41.691: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673456202257	Marionette	INFO	Marionette enabled
+1673456202262	Marionette	INFO	Listening on port 43955
+Read port: 43955
+WebDriver BiDi listening on ws://127.0.0.1:36433
+1673456202403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9egu7N/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36433/devtools/browser/6aba18da-0558-4c90-815d-3eeef0a02f91
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discord.com."
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 701))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673456531974	Marionette	INFO	Stopped listening on port 43955
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673456538771	geckodriver	INFO	Listening on 127.0.0.1:56379
+1673456539430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57013" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevK7iDv"
+[3970, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:3970): Gdk-CRITICAL **: 11:02:19.506: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[3970, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:3970): Gdk-CRITICAL **: 11:02:19.506: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673456540113	Marionette	INFO	Marionette enabled
+1673456540118	Marionette	INFO	Listening on port 33509
+Read port: 33509
+WebDriver BiDi listening on ws://127.0.0.1:57013
+1673456540303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevK7iDv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57013/devtools/browser/1f95fb56-d4d9-4d64-942a-c1365e8e8178
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discord.com."
+1673456579632	geckodriver	INFO	Listening on 127.0.0.1:41573
+1673456579678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41239" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefS9Lau"
+[4418, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:4418): Gdk-CRITICAL **: 11:02:59.739: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[4418, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:4418): Gdk-CRITICAL **: 11:02:59.739: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673456580148	Marionette	INFO	Marionette enabled
+1673456580152	Marionette	INFO	Listening on port 41627
+Read port: 41627
+WebDriver BiDi listening on ws://127.0.0.1:41239
+1673456580277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefS9Lau/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41239/devtools/browser/46ed508f-d002-481f-9895-3e514a69ed59
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discord.com."
+1673456835856	Marionette	INFO	Stopped listening on port 41627
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673456839447	geckodriver	INFO	Listening on 127.0.0.1:56569
+1673456839544	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile36OF4d"
+[5049, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:5049): Gdk-CRITICAL **: 11:07:19.609: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[5049, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:5049): Gdk-CRITICAL **: 11:07:19.609: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673456840017	Marionette	INFO	Marionette enabled
+1673456840022	Marionette	INFO	Listening on port 33611
+Read port: 33611
+WebDriver BiDi listening on ws://127.0.0.1:38823
+1673456840143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile36OF4d/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38823/devtools/browser/198a7115-58d8-429a-8dc7-461a6a6248b7
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discord.com."
+1673457279923	geckodriver	INFO	Listening on 127.0.0.1:47591
+1673457280578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0pSWfo"
+[6096, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:6096): Gdk-CRITICAL **: 11:14:40.654: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[6096, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:6096): Gdk-CRITICAL **: 11:14:40.657: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673457281248	Marionette	INFO	Marionette enabled
+1673457281252	Marionette	INFO	Listening on port 44925
+Read port: 44925
+WebDriver BiDi listening on ws://127.0.0.1:43485
+1673457281410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0pSWfo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43485/devtools/browser/e3798168-7fe2-415e-a7c9-7062e8319a12
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discord.com."
+1673457328344	geckodriver	INFO	Listening on 127.0.0.1:35583
+1673457328944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePjM3ZK"
+[6648, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:6648): Gdk-CRITICAL **: 11:15:29.016: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[6648, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:6648): Gdk-CRITICAL **: 11:15:29.017: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673457329534	Marionette	INFO	Marionette enabled
+1673457329540	Marionette	INFO	Listening on port 45803
+Read port: 45803
+WebDriver BiDi listening on ws://127.0.0.1:34541
+1673457329689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePjM3ZK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34541/devtools/browser/b457b2c1-b4c0-4d32-95d8-48ae7ac4baf2
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discord.com."
+1673457389354	geckodriver	INFO	Listening on 127.0.0.1:48261
+1673457389993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile82PUvN"
+[7172, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:7172): Gdk-CRITICAL **: 11:16:30.071: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[7172, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:7172): Gdk-CRITICAL **: 11:16:30.071: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673457390617	Marionette	INFO	Marionette enabled
+1673457390622	Marionette	INFO	Listening on port 42331
+Read port: 42331
+WebDriver BiDi listening on ws://127.0.0.1:34779
+1673457390792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile82PUvN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34779/devtools/browser/c36a1f0c-52c1-4c20-b2ee-1312654f3e4c
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discord.com."
+1673457455582	geckodriver	INFO	Listening on 127.0.0.1:44347
+1673457456358	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40397" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePLrDY8"
+[7694, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:7694): Gdk-CRITICAL **: 11:17:36.444: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[7694, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:7694): Gdk-CRITICAL **: 11:17:36.444: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673457456982	Marionette	INFO	Marionette enabled
+1673457456987	Marionette	INFO	Listening on port 46111
+Read port: 46111
+WebDriver BiDi listening on ws://127.0.0.1:40397
+1673457457146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePLrDY8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40397/devtools/browser/be12c15c-5766-4992-a391-5d533abd3437
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discord.com."
+1673457536254	geckodriver	INFO	Listening on 127.0.0.1:57303
+1673457536919	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehILkox"
+[8213, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:8213): Gdk-CRITICAL **: 11:18:56.990: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[8213, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:8213): Gdk-CRITICAL **: 11:18:56.991: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673457537538	Marionette	INFO	Marionette enabled
+1673457537542	Marionette	INFO	Listening on port 37063
+Read port: 37063
+WebDriver BiDi listening on ws://127.0.0.1:50477
+1673457537707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehILkox/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50477/devtools/browser/32a4dd26-3c1e-44a3-96cd-0e8d252e69ce
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discord.com."
+1673457618287	geckodriver	INFO	Listening on 127.0.0.1:57651
+1673457618996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43591" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileySKYef"
+[8812, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:8812): Gdk-CRITICAL **: 11:20:19.092: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[8812, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:8812): Gdk-CRITICAL **: 11:20:19.093: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673457619844	Marionette	INFO	Marionette enabled
+1673457619849	Marionette	INFO	Listening on port 42107
+Read port: 42107
+WebDriver BiDi listening on ws://127.0.0.1:43591
+1673457620010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileySKYef/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43591/devtools/browser/3de1a7af-1a26-44a2-bae2-e25acecb9812
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discord.com."
+1673457701996	Marionette	INFO	Stopped listening on port 42107
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673457706463	geckodriver	INFO	Listening on 127.0.0.1:45393
+1673457707130	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52497" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilej6fWDM"
+[9317, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:9317): Gdk-CRITICAL **: 11:21:47.218: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[9317, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:9317): Gdk-CRITICAL **: 11:21:47.225: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673457707761	Marionette	INFO	Marionette enabled
+1673457707766	Marionette	INFO	Listening on port 40943
+Read port: 40943
+WebDriver BiDi listening on ws://127.0.0.1:52497
+1673457707918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilej6fWDM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52497/devtools/browser/052b90a1-3fdd-4266-ab81-b7e435fa3ae2
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discord.com."
+1673457818518	geckodriver	INFO	Listening on 127.0.0.1:45115
+1673457819224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSiF8BD"
+[9850, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:9850): Gdk-CRITICAL **: 11:23:39.359: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[9850, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:9850): Gdk-CRITICAL **: 11:23:39.361: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673457819992	Marionette	INFO	Marionette enabled
+1673457819998	Marionette	INFO	Listening on port 46633
+Read port: 46633
+WebDriver BiDi listening on ws://127.0.0.1:43491
+1673457820160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSiF8BD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43491/devtools/browser/9d6a4abe-5233-46b3-b19f-6b93ddac88ab
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discord.com."
+1673458006481	geckodriver	INFO	Listening on 127.0.0.1:54051
+1673458007208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36977" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilej68DGg"
+[1908, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:1908): Gdk-CRITICAL **: 11:26:47.274: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[1908, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:1908): Gdk-CRITICAL **: 11:26:47.275: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673458007916	Marionette	INFO	Marionette enabled
+1673458007921	Marionette	INFO	Listening on port 41783
+Read port: 41783
+WebDriver BiDi listening on ws://127.0.0.1:36977
+1673458008084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilej68DGg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36977/devtools/browser/007fbf06-365b-4296-8276-f319e17834d8
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+1673458145878	Marionette	INFO	Stopped listening on port 41783
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673458170219	geckodriver	INFO	Listening on 127.0.0.1:43521
+1673458170837	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56453" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNgBOLx"
+[2356, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:2356): Gdk-CRITICAL **: 11:29:30.896: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[2356, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:2356): Gdk-CRITICAL **: 11:29:30.897: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673458171323	Marionette	INFO	Marionette enabled
+1673458171327	Marionette	INFO	Listening on port 44415
+Read port: 44415
+WebDriver BiDi listening on ws://127.0.0.1:56453
+1673458171439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNgBOLx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56453/devtools/browser/cb37c2cf-2bbd-4ee6-978d-609b7d22a2e2
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discord.com."
+1673458241599	geckodriver	INFO	Listening on 127.0.0.1:51051
+1673458242173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJ3isCr"
+[2834, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:2834): Gdk-CRITICAL **: 11:30:42.303: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[2834, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:2834): Gdk-CRITICAL **: 11:30:42.303: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673458242831	Marionette	INFO	Marionette enabled
+1673458242836	Marionette	INFO	Listening on port 33789
+Read port: 33789
+WebDriver BiDi listening on ws://127.0.0.1:39795
+1673458242992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJ3isCr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39795/devtools/browser/41f65e57-b55a-4926-a658-6f2a2049268f
+JavaScript warning: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/b231de52ba4b4d7ea266.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discord.com."
+1673458316032	geckodriver	INFO	Listening on 127.0.0.1:41803
+1673458316089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCihsB3"
+[3343, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:3343): Gdk-CRITICAL **: 11:31:56.159: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[3343, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:3343): Gdk-CRITICAL **: 11:31:56.160: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673458316656	Marionette	INFO	Marionette enabled
+1673458316660	Marionette	INFO	Listening on port 39673
+Read port: 39673
+WebDriver BiDi listening on ws://127.0.0.1:50731
+1673458316814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCihsB3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50731/devtools/browser/701fa8b9-c93b-42a8-901f-d5e64c77c883
+JavaScript warning: https://discord.com/assets/1e0379ee466c7a66ddce.js, line 5294: unreachable code after return statement
+JavaScript error: https://discord.com/assets/1e0379ee466c7a66ddce.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://discord.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673537535725	geckodriver	INFO	Listening on 127.0.0.1:49653
+1673537536364	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4CqctZ"
+[3483, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:3483): Gdk-CRITICAL **: 09:32:16.451: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[3483, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:3483): Gdk-CRITICAL **: 09:32:16.451: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673537537077	Marionette	INFO	Marionette enabled
+1673537537081	Marionette	INFO	Listening on port 36083
+Read port: 36083
+WebDriver BiDi listening on ws://127.0.0.1:37415
+1673537537246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4CqctZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37415/devtools/browser/dbb87b74-d64f-4332-afc9-903daaa62df8
+JavaScript warning: https://discord.com/assets/3a4036348e9c3b0d0e79.js, line 5299: unreachable code after return statement
+JavaScript error: https://discord.com/assets/3a4036348e9c3b0d0e79.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+1673537575152	Marionette	INFO	Stopped listening on port 36083
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673537575264	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+JavaScript error: , line 0: OperationError: Could not move temporary file(/tmp/rust_mozprofile4CqctZ/sessionCheckpoints.json.tmp) to destination(/tmp/rust_mozprofile4CqctZ/sessionCheckpoints.json)
+[2023-01-12T15:32:55Z ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1673537599780	geckodriver	INFO	Listening on 127.0.0.1:41375
+1673537600383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40881" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUxryqS"
+[3914, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:3914): Gdk-CRITICAL **: 09:33:20.447: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[3914, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:3914): Gdk-CRITICAL **: 09:33:20.447: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673537600839	Marionette	INFO	Marionette enabled
+1673537600843	Marionette	INFO	Listening on port 44097
+Read port: 44097
+WebDriver BiDi listening on ws://127.0.0.1:40881
+1673537600954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUxryqS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40881/devtools/browser/f9b082b1-a5bb-48ae-adf1-a545cc9c29aa
+JavaScript warning: https://discord.com/assets/3a4036348e9c3b0d0e79.js, line 5299: unreachable code after return statement
+JavaScript error: https://discord.com/assets/3a4036348e9c3b0d0e79.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index2/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index3/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/present
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index2/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index3/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/present
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index2/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index3/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/present
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index2/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index3/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/present
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index2/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index3/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/present
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index2/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index3/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/present
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index2/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index3/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/present
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu
+1673537655377	Marionette	INFO	Stopped listening on port 44097
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673537655509	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+[2023-01-12T15:34:16Z ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1673537661168	geckodriver	INFO	Listening on 127.0.0.1:45471
+1673537661215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48083" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEalRX3"
+[4520, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:4520): Gdk-CRITICAL **: 09:34:21.275: gdk_atom_intern: assertion 'atom_name != NULL' failed
+[4520, Main Thread] WARNING: gdk_atom_intern: assertion 'atom_name != NULL' failed: 'glib warning', file /builddir/build/BUILD/firefox-107.0.1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:4520): Gdk-CRITICAL **: 09:34:21.276: gdk_atom_intern: assertion 'atom_name != NULL' failed
+1673537661679	Marionette	INFO	Marionette enabled
+1673537661683	Marionette	INFO	Listening on port 45029
+Read port: 45029
+WebDriver BiDi listening on ws://127.0.0.1:48083
+1673537661801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEalRX3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48083/devtools/browser/c25805be-c3db-4e7a-8a7f-e9ed026f2b11
+JavaScript warning: https://discord.com/assets/3a4036348e9c3b0d0e79.js, line 5299: unreachable code after return statement
+JavaScript error: https://discord.com/assets/3a4036348e9c3b0d0e79.js, line 99: Error: Cannot find module './notosans-400-normalitalic.woff2'
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index2/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index3/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/present
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index2/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index3/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/present
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index2/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index3/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/present
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index2/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index3/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/present
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index2/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/cpu0/cache/index3/size
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu/present
+Sandbox: attempt to open unexpected file /sys/devices/system/cpu
+1673537723471	Marionette	INFO	Stopped listening on port 45029
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673537723701	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+[2023-01-12T15:35:23Z ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
